@@ -1,0 +1,19 @@
+{
+    "name": "Ngemi Festival Germany",
+    "short_name": "Ngemi",
+    "icons": [
+        {
+            "src": "/images/logo/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/logo/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#090604",
+    "background_color": "#090604",
+    "display": "standalone"
+}
