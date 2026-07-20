@@ -41,7 +41,7 @@
         </div>
 
         <div class="flex flex-col sm:flex-row items-start sm:items-center gap-4 animate-slide-up" style="animation-delay: 0.4s;">
-            <a href="#tickets" class="w-full sm:w-auto group relative bg-ngemi-orange hover:bg-ngemi-orange-dark text-ngemi-dark font-bold px-8 py-4 rounded-xl text-base transition-all hover:shadow-2xl hover:shadow-ngemi-orange/25 hover:-translate-y-0.5 active:scale-95">
+            <a href="#" class="w-full sm:w-auto group relative bg-ngemi-orange hover:bg-ngemi-orange-dark text-ngemi-dark font-bold px-8 py-4 rounded-xl text-base transition-all hover:shadow-2xl hover:shadow-ngemi-orange/25 hover:-translate-y-0.5 active:scale-95">
                 <span class="flex items-center justify-center gap-2">
                     Get Your Tickets
                     <svg class="w-4 h-4 transition-transform group-hover:translate-x-1" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>

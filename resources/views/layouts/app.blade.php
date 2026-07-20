@@ -6,11 +6,7 @@
     <title>@yield('title', 'Ngemi Germany Edition – Berlin 2026')</title>
     <meta name="description" content="@yield('description', 'Ngemi Germany Edition – Berlin 2026. Culture, music, food and community. September 5, 2026.')">
 
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/logo/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/images/logo/favicon-16x16.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/images/logo/apple-touch-icon.png">
-    <link rel="manifest" href="/site.webmanifest">
 
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600,700,800,900|bebas-neue:400&display=swap" rel="stylesheet" />

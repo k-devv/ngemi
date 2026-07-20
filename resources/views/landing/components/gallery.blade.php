@@ -19,7 +19,7 @@
 
             <div class="reveal break-inside-avoid rounded-xl overflow-hidden group cursor-pointer">
                 <div class="relative">
-                    <img src="/images/gallery/dj-crowd-stage.jpg" alt="DJ performing" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
+                    <img src="/images/gallery/dj-booth-crowd.jpg" alt="DJ booth with crowd" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
                     <div class="absolute inset-0 bg-ngemi-dark/0 group-hover:bg-ngemi-dark/30 transition-colors duration-500"></div>
                 </div>
             </div>
@@ -33,7 +33,7 @@
 
             <div class="reveal reveal-delay-2 break-inside-avoid rounded-xl overflow-hidden group cursor-pointer">
                 <div class="relative">
-                    <img src="/images/gallery/mugometrine.jpg" alt="Ngemi celebration" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
+                    <img src="/images/gallery/pulse-crowd.jpg" alt="Massive crowd" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
                     <div class="absolute inset-0 bg-ngemi-dark/0 group-hover:bg-ngemi-dark/30 transition-colors duration-500"></div>
                 </div>
             </div>
@@ -47,26 +47,12 @@
 
             <div class="reveal break-inside-avoid rounded-xl overflow-hidden group cursor-pointer">
                 <div class="relative">
-                    <img src="/images/gallery/pulse-crowd.jpg" alt="Massive crowd" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
+                    <img src="/images/gallery/backstage-women.jpg" alt="Backstage at Ngemi" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
                     <div class="absolute inset-0 bg-ngemi-dark/0 group-hover:bg-ngemi-dark/30 transition-colors duration-500"></div>
                 </div>
             </div>
 
             <div class="reveal reveal-delay-2 break-inside-avoid rounded-xl overflow-hidden group cursor-pointer">
-                <div class="relative">
-                    <img src="/images/gallery/samidoh-ngemi.jpg" alt="Samidoh performing" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
-                    <div class="absolute inset-0 bg-ngemi-dark/0 group-hover:bg-ngemi-dark/30 transition-colors duration-500"></div>
-                </div>
-            </div>
-
-            <div class="reveal reveal-delay-1 break-inside-avoid rounded-xl overflow-hidden group cursor-pointer">
-                <div class="relative">
-                    <img src="/images/gallery/wanguii.jpg" alt="Ngemi attendee" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
-                    <div class="absolute inset-0 bg-ngemi-dark/0 group-hover:bg-ngemi-dark/30 transition-colors duration-500"></div>
-                </div>
-            </div>
-
-            <div class="reveal break-inside-avoid rounded-xl overflow-hidden group cursor-pointer">
                 <div class="relative">
                     <img src="/images/gallery/pulse-african-print.jpg" alt="African print fashion" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
                     <div class="absolute inset-0 bg-ngemi-dark/0 group-hover:bg-ngemi-dark/30 transition-colors duration-500"></div>
@@ -89,14 +75,14 @@
 
             <div class="reveal break-inside-avoid rounded-xl overflow-hidden group cursor-pointer">
                 <div class="relative">
-                    <img src="/images/gallery/oliy-karori.jpg" alt="Ngemi moment" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
+                    <img src="/images/gallery/couple-stylish.jpg" alt="Stylish couple at Ngemi" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
                     <div class="absolute inset-0 bg-ngemi-dark/0 group-hover:bg-ngemi-dark/30 transition-colors duration-500"></div>
                 </div>
             </div>
 
             <div class="reveal reveal-delay-1 break-inside-avoid rounded-xl overflow-hidden group cursor-pointer">
                 <div class="relative">
-                    <img src="/images/gallery/crowd-event.jpg" alt="Event crowd" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
+                    <img src="/images/gallery/pulse-couple.jpg" alt="Couple at Ngemi" class="w-full object-cover transition-transform duration-700 group-hover:scale-110" loading="lazy" />
                     <div class="absolute inset-0 bg-ngemi-dark/0 group-hover:bg-ngemi-dark/30 transition-colors duration-500"></div>
                 </div>
             </div>

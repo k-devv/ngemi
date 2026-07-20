@@ -35,7 +35,7 @@
         </div>
 
         <div class="reveal reveal-delay-2">
-            <a href="#tickets" class="inline-flex items-center gap-2 bg-ngemi-orange hover:bg-ngemi-orange-dark text-ngemi-dark font-bold px-8 py-4 rounded-xl text-base transition-all hover:shadow-2xl hover:shadow-ngemi-orange/25 active:scale-95">
+            <a href="#" class="inline-flex items-center gap-2 bg-ngemi-orange hover:bg-ngemi-orange-dark text-ngemi-dark font-bold px-8 py-4 rounded-xl text-base transition-all hover:shadow-2xl hover:shadow-ngemi-orange/25 active:scale-95">
                 Get Your Tickets Now
                 <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 8l4 4m0 0l-4 4m4-4H3"/></svg>
             </a>
