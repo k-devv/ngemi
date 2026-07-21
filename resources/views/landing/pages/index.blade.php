@@ -6,6 +6,7 @@
     @include('landing.components.experience')
     @include('landing.components.gallery')
     @include('landing.components.about')
+    @include('landing.components.team')
     @include('landing.components.countdown')
     @include('landing.components.location')
 @endsection

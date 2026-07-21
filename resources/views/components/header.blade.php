@@ -13,9 +13,10 @@
             </a>
 
             <nav class="hidden lg:flex items-center gap-1">
-                <a href="#about" class="nav-link px-4 py-2 text-ngemi-cream/60 hover:text-ngemi-orange transition-colors text-sm font-medium rounded-lg hover:bg-white/5">About</a>
                 <a href="#experience" class="nav-link px-4 py-2 text-ngemi-cream/60 hover:text-ngemi-orange transition-colors text-sm font-medium rounded-lg hover:bg-white/5">Experience</a>
                 <a href="#gallery" class="nav-link px-4 py-2 text-ngemi-cream/60 hover:text-ngemi-orange transition-colors text-sm font-medium rounded-lg hover:bg-white/5">Gallery</a>
+                <a href="#about" class="nav-link px-4 py-2 text-ngemi-cream/60 hover:text-ngemi-orange transition-colors text-sm font-medium rounded-lg hover:bg-white/5">About</a>
+                <a href="#team" class="nav-link px-4 py-2 text-ngemi-cream/60 hover:text-ngemi-orange transition-colors text-sm font-medium rounded-lg hover:bg-white/5">Team</a>
                 <a href="#location" class="nav-link px-4 py-2 text-ngemi-cream/60 hover:text-ngemi-orange transition-colors text-sm font-medium rounded-lg hover:bg-white/5">Location</a>
                 <a href="/contact" class="nav-link px-4 py-2 text-ngemi-cream/60 hover:text-ngemi-orange transition-colors text-sm font-medium rounded-lg hover:bg-white/5">Contact</a>
             </nav>
@@ -37,7 +38,7 @@
 
     <div id="mobile-menu-overlay" class="lg:hidden fixed inset-0 bg-black/60 backdrop-blur-sm z-40 opacity-0 pointer-events-none transition-opacity duration-300"></div>
 
-    <div id="mobile-menu" class="lg:hidden fixed top-0 left-0 h-full w-72 bg-ngemi-dark/98 backdrop-blur-xl border-r border-ngemi-orange/10 z-50 transform -translate-x-full opacity-0 pointer-events-none transition-all duration-300 overflow-y-auto">
+    <div id="mobile-menu" class="lg:hidden fixed top-0 left-0 h-full w-80 bg-ngemi-dark/98 backdrop-blur-xl border-r border-ngemi-orange/10 z-50 transform -translate-x-full opacity-0 pointer-events-none transition-all duration-300 overflow-y-auto">
         <div class="flex items-center justify-between px-6 py-5 border-b border-ngemi-orange/10">
             <a href="/" class="flex items-center gap-2">
                 <img src="/images/logo/ngemilogo.jpg" alt="Ngemi" class="w-7 h-7 rounded-md object-cover" />
@@ -49,9 +50,10 @@
         </div>
 
         <div class="px-4 py-6 space-y-1">
-            <a href="#about" class="mobile-nav-link block px-4 py-3 text-ngemi-cream/60 hover:text-ngemi-orange hover:bg-ngemi-orange/5 rounded-lg text-base font-medium transition-all mobile-menu-link">About</a>
             <a href="#experience" class="mobile-nav-link block px-4 py-3 text-ngemi-cream/60 hover:text-ngemi-orange hover:bg-ngemi-orange/5 rounded-lg text-base font-medium transition-all mobile-menu-link">Experience</a>
             <a href="#gallery" class="mobile-nav-link block px-4 py-3 text-ngemi-cream/60 hover:text-ngemi-orange hover:bg-ngemi-orange/5 rounded-lg text-base font-medium transition-all mobile-menu-link">Gallery</a>
+            <a href="#about" class="mobile-nav-link block px-4 py-3 text-ngemi-cream/60 hover:text-ngemi-orange hover:bg-ngemi-orange/5 rounded-lg text-base font-medium transition-all mobile-menu-link">About</a>
+            <a href="#team" class="mobile-nav-link block px-4 py-3 text-ngemi-cream/60 hover:text-ngemi-orange hover:bg-ngemi-orange/5 rounded-lg text-base font-medium transition-all mobile-menu-link">Team</a>
             <a href="#location" class="mobile-nav-link block px-4 py-3 text-ngemi-cream/60 hover:text-ngemi-orange hover:bg-ngemi-orange/5 rounded-lg text-base font-medium transition-all mobile-menu-link">Location</a>
             <a href="/contact" class="mobile-nav-link block px-4 py-3 text-ngemi-cream/60 hover:text-ngemi-orange hover:bg-ngemi-orange/5 rounded-lg text-base font-medium transition-all mobile-menu-link">Contact</a>
             <div class="pt-4 border-t border-ngemi-orange/10 mt-4">
