@@ -6,7 +6,7 @@
     <title>@yield('title', 'Ngemi Germany Edition – Berlin 2026')</title>
     <meta name="description" content="@yield('description', 'Ngemi Germany Edition – Berlin 2026. Culture, music, food and community. September 5, 2026.')">
 
-    <link rel="icon" type="image/png" sizes="32x32" href="/images/logo/favicon-32x32.png">
+    <link rel="icon" type="image/svg+xml" href="/images/logo/ngemi_logo_transparent (1).svg">
 
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=instrument-sans:400,500,600,700,800,900|bebas-neue:400&display=swap" rel="stylesheet" />

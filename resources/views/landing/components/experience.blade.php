@@ -27,7 +27,7 @@
                 <div class="absolute bottom-0 left-0 right-0 p-6 sm:p-8">
                     <h3 class="text-ngemi-cream font-bold text-xl sm:text-2xl mb-2">Music</h3>
                     <p class="text-ngemi-cream/50 text-sm leading-relaxed">
-                        Mugithi, Afrobeat, live DJs. From headline acts to surprise performances.
+                        Nduumo, Mwomboko, Kikuyu gospel songs, live DJs. From headline acts to surprise performances.
                     </p>
                 </div>
             </div>

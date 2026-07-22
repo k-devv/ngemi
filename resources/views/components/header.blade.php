@@ -5,7 +5,7 @@
         <div class="flex items-center justify-between h-[70px] sm:h-[80px]">
 
             <a href="/" class="relative z-10 flex-shrink-0">
-                <img src="/images/logo/b9c6cf37-5d2f-4fc5-8bbd-65f410664a1d.jpeg" alt="Ngemi" class="h-[55px] sm:h-[60px] w-auto object-contain rounded-xl brightness-110 contrast-110" style="mix-blend-mode: screen;" />
+                <img src="/images/logo/ngemi_logo_transparent (1).svg" alt="Ngemi" class="h-[90px] sm:h-[100px] w-auto" />
             </a>
 
             <div class="hidden lg:flex items-center gap-1 absolute left-1/2 -translate-x-1/2">
@@ -36,7 +36,7 @@
     <div id="mobile-menu" class="lg:hidden fixed top-0 left-0 h-full w-80 bg-black/95 backdrop-blur-2xl border-r border-white/5 z-50 transform -translate-x-full opacity-0 pointer-events-none transition-all duration-300 overflow-y-auto">
         <div class="flex items-center justify-between px-6 py-5 border-b border-white/5">
             <a href="/" class="flex items-center gap-2">
-                <img src="/images/logo/b9c6cf37-5d2f-4fc5-8bbd-65f410664a1d.jpeg" alt="Ngemi" class="h-[45px] w-auto object-contain rounded-xl brightness-110 contrast-110" style="mix-blend-mode: screen;" />
+                <img src="/images/logo/ngemi_logo_transparent (1).svg" alt="Ngemi" class="h-[70px] w-auto" />
             </a>
             <button id="mobile-menu-close" class="w-9 h-9 flex items-center justify-center text-white/50 hover:text-ngemi-orange transition-colors">
                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>

@@ -1,11 +1,11 @@
-<section class="relative h-screen min-h-[650px] max-h-[1000px] flex items-end overflow-hidden">
+<section class="relative h-auto min-h-[600px] sm:h-screen sm:min-h-[650px] sm:max-h-[1000px] flex items-end overflow-hidden">
 
-    <div class="absolute inset-0">
-        <img src="/images/hero/dj-orange-print.jpg" alt="Ngemi Festival" class="w-full h-full object-cover object-center" loading="eager" />
+    <div class="absolute inset-0 h-[40vh] sm:h-full">
+        <img src="/images/hero/dj-orange-print.jpg" alt="Ngemi Festival" class="w-full h-full object-contain sm:object-cover bg-black object-center" loading="eager" />
     </div>
 
-    <div class="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent"></div>
-    <div class="absolute inset-0 bg-gradient-to-r from-black/70 via-black/20 to-transparent"></div>
+    <div class="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-transparent"></div>
+    <div class="absolute inset-0 bg-gradient-to-r from-black/80 via-black/30 to-transparent sm:from-black/70 sm:via-black/20"></div>
 
     <div class="relative z-10 w-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-20 sm:pb-28">
 
@@ -49,12 +49,6 @@
             <span class="text-white/20 text-sm hidden sm:block">or scroll to explore</span>
         </div>
 
-    </div>
-
-    <div class="absolute bottom-8 left-1/2 -translate-x-1/2 animate-fade-up" style="animation-delay: 0.4s;">
-        <div class="w-6 h-10 border-2 border-white/20 rounded-full flex justify-center pt-2">
-            <div class="w-1 h-3 bg-ngemi-orange rounded-full animate-bounce"></div>
-        </div>
     </div>
 
 </section>

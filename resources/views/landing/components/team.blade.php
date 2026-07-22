@@ -20,9 +20,29 @@
 
             <div class="reveal reveal-delay-1 group relative bg-ngemi-dark/60 backdrop-blur-sm rounded-2xl overflow-hidden border border-white/5 hover:border-ngemi-orange/20 transition-all duration-500">
                 <div class="relative aspect-[4/3] overflow-hidden">
-                    <div class="w-full h-full bg-ngemi-dark flex items-center justify-center">
-                        <span class="text-ngemi-orange/60 text-5xl font-black" style="font-family: 'Bebas Neue', sans-serif;">GN</span>
-                    </div>
+                    <svg class="w-full h-full" preserveAspectRatio="xMidYMid slice" xmlns="http://www.w3.org/2000/svg">
+                        <defs>
+                            <clipPath id="godfrey-clip">
+                                <path d="M0,0 L100%,0 L100%,85% Q50%,100% 0,85% Z" />
+                            </clipPath>
+                            <filter id="sharp">
+                                <feGaussianBlur in="SourceGraphic" stdDeviation="0" />
+                                <feComponentTransfer>
+                                    <feFuncR type="linear" slope="1.2" />
+                                    <feFuncG type="linear" slope="1.2" />
+                                    <feFuncB type="linear" slope="1.2" />
+                                </feComponentTransfer>
+                            </filter>
+                        </defs>
+                        <image 
+                            href="/images/team/GodfreyNganga.jpg" 
+                            width="100%" 
+                            height="100%" 
+                            preserveAspectRatio="xMidYMid slice"
+                            filter="url(#sharp)"
+                            class="transition-transform duration-700 group-hover:scale-105"
+                            style="transform-origin: center;" />
+                    </svg>
                     <div class="absolute inset-0 bg-gradient-to-t from-ngemi-dark via-ngemi-dark/20 to-transparent"></div>
                 </div>
                 <div class="p-5 sm:p-6">
