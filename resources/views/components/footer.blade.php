@@ -6,7 +6,7 @@
 
             <div class="md:col-span-5">
                 <div class="flex items-center gap-3 mb-5">
-                    <img src="/images/logo/ngemilogo.jpg" alt="Ngemi" class="w-10 h-10 rounded-lg object-cover" />
+                    <img src="/images/logo/b9c6cf37-5d2f-4fc5-8bbd-65f410664a1d.jpeg" alt="Ngemi" class="w-10 h-10 rounded-lg object-cover" />
                     <div>
                         <span class="text-ngemi-orange font-bold text-xl tracking-wide">NGEMI</span>
                         <span class="block text-ngemi-cream/40 text-[10px] tracking-[0.25em] uppercase">Germany Edition</span>
