@@ -4,7 +4,7 @@
         <span class="mx-4 text-ngemi-orange/20">&#10022;</span>
         <span class="mx-8 text-ngemi-cream text-sm font-bold tracking-[0.2em] uppercase">Berlin, Germany</span>
         <span class="mx-4 text-ngemi-orange/20">&#10022;</span>
-        <span class="mx-8 text-ngemi-orange/60 text-sm font-bold tracking-[0.2em] uppercase">Doors Open 14:00</span>
+        <span class="mx-8 text-ngemi-orange/60 text-sm font-bold tracking-[0.2em] uppercase">11:00 AM - 5:00 AM</span>
         <span class="mx-4 text-ngemi-orange/20">&#10022;</span>
         <span class="mx-8 text-ngemi-cream/60 text-sm font-bold tracking-[0.2em] uppercase">Live Performances</span>
         <span class="mx-4 text-ngemi-orange/20">&#10022;</span>
@@ -24,7 +24,7 @@
         <span class="mx-4 text-ngemi-orange/20">&#10022;</span>
         <span class="mx-8 text-ngemi-cream/60 text-sm font-bold tracking-[0.2em] uppercase">Live DJs</span>
         <span class="mx-4 text-ngemi-orange/20">&#10022;</span>
-        <span class="mx-8 text-ngemi-orange text-sm font-bold tracking-[0.2em] uppercase">Doors Open 14:00</span>
+        <span class="mx-8 text-ngemi-orange text-sm font-bold tracking-[0.2em] uppercase">11:00 AM - 5:00 AM</span>
         <span class="mx-4 text-ngemi-orange/20">&#10022;</span>
     </div>
 </section>

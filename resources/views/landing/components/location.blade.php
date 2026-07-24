@@ -25,7 +25,7 @@
                         <svg class="w-5 h-5 text-ngemi-orange mt-0.5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
                         <div>
                             <span class="text-ngemi-cream/70 text-sm font-medium">Date & Time</span>
-                            <span class="block text-ngemi-cream/40 text-sm">September 5, 2026 • Doors Open 14:00</span>
+                            <span class="block text-ngemi-cream/40 text-sm">September 5, 2026 • 11:00 AM - 5:00 AM</span>
                         </div>
                     </div>
                     <div class="flex items-start gap-3">

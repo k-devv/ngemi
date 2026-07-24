@@ -66,9 +66,7 @@
 
             <div class="reveal reveal-delay-3 group relative bg-ngemi-dark/60 backdrop-blur-sm rounded-2xl overflow-hidden border border-white/5 hover:border-ngemi-orange/20 transition-all duration-500">
                 <div class="relative aspect-[4/3] overflow-hidden">
-                    <div class="w-full h-full bg-ngemi-dark flex items-center justify-center">
-                        <span class="text-ngemi-orange/60 text-5xl font-black" style="font-family: 'Bebas Neue', sans-serif;">GG</span>
-                    </div>
+                    <img src="/images/team/gichiri.jpg" alt="Gideon Gichiri" class="w-full h-full object-cover transition-transform duration-700 group-hover:scale-105" loading="lazy" />
                     <div class="absolute inset-0 bg-gradient-to-t from-ngemi-dark via-ngemi-dark/20 to-transparent"></div>
                 </div>
                 <div class="p-5 sm:p-6">

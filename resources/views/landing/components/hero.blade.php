@@ -37,7 +37,7 @@
             </div>
             <div class="flex items-center gap-2">
                 <svg class="w-4 h-4 text-ngemi-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-                <span class="text-white/60 text-sm">Doors Open 14:00</span>
+                <span class="text-white/60 text-sm">11:00 AM - 5:00 AM</span>
             </div>
         </div>
 
